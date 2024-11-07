@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Playpen+Sans:wght@100..800&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Playpen Sans", sans-serif;
+  background-color: #e6f3f5;
+  margin: 0 auto;
+}
+
+header {
+  background-color: #92cfde;
+  font-size: min(3vw, 1.2em);
+  height: auto;
+  text-align: center;
+  padding: 10px;
+}
+
+#img-div {
+  text-align: center;
+  padding: 20px 0;
+}
+
+#img-div-book {
+  text-align: center;
+  padding: 0;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  height: auto;
+  max-width: 100%;
+}
+
+header > p {
+  text-align: center;
+  padding-top: 5px;
+  font-size: 16px;
+}
+
+#image, #img-book-cover {
+  border: 2px solid #000000AA;
+}
+
+.heading {
+  background-color: #9fdded;
+  width: 100%;
+  height: auto;
+  margin-bottom: 7px;
+}
+
+h2 {
+  padding-bottom: 5px;
+  text-align: center;
+}
+
+#tribute-info p {
+  text-align: justify;
+  margin-bottom: 15px;
+  line-height: 1.7rem;
+}
+
+#img-caption {
+  padding-top: 10px;
+  font-size: 17px;
+}
+
+#img-caption2 {
+  padding-top: 10px;
+  font-size: 17px;
+  margin-bottom: 20px;
+}
+
+#tribute-info p, figcaption {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+ a {
+   color: black;
+ }
+
+ a:hover {
+   color: blue;
+ }
+
+footer {
+  margin-top: 20px;
+  background-color: #b5bcbd;
+}
+
+footer > p {
+  margin: 0 auto;
+  font-size: 17px;
+  text-align: center;
+  padding: 5px;
+}
+
+
+
+
+
